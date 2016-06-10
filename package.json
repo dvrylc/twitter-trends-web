@@ -1,0 +1,24 @@
+{
+  "name": "twitter-trends-web",
+  "version": "0.1.0",
+  "description": "Realtime Twitter trends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvrylc/twitter-trends-web.git"
+  },
+  "keywords": [
+    "realtime",
+    "twitter",
+    "trends"
+  ],
+  "author": "Daryl Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvrylc/twitter-trends-web/issues"
+  },
+  "homepage": "https://github.com/dvrylc/twitter-trends-web#readme"
+}
