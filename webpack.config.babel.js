@@ -12,7 +12,7 @@ export default {
     loaders: [
       { test: /\.html$/, exclude: /node_modules/, loader: 'file?name=[name].[ext]' },
       { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' },
-      { test: /\.s?css$/, exclude: /node_modules/, loaders: ['style', 'css', 'sass'] }
+      { test: /\.s?css$/, loaders: ['style', 'css', 'sass'] }
     ]
   }
 }
